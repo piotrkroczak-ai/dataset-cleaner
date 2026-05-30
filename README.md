@@ -53,7 +53,7 @@ No language model ever modifies the data directly — every transformation is a 
 ![Analysis and error report](screenshots/analysis.png)
 
 **Confidence Heatmap & Cleaning Summary**
-![Heatmap and KPIs](screenshots/results.png)
+![Heatmap and KPIs](screenshots/heatmap.png)
 
 > Three screenshots give the visual overview — the video covers the full workflow.
 
