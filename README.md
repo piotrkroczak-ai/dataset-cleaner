@@ -40,18 +40,20 @@ No language model ever modifies the data directly — every transformation is a 
 
 ## Demo
 
-▶ [Watch the full demo on YouTube](#) *(link to be added)*
+[![Watch the full demo on YouTube](https://img.youtube.com/vi/ulGd27F5i1I/maxresdefault.jpg)](https://youtu.be/ulGd27F5i1I)
+
+▶ [Watch the full demo on YouTube](https://youtu.be/ulGd27F5i1I)
 
 ### Screenshots
 
 **Upload & Dashboard**
-![Dashboard overview](screenshots/01_dashboard.png)
+![Dashboard overview](screenshots/dashboard.png)
 
 **Error Detection & Analysis Report**
-![Analysis and error report](screenshots/02_analysis.png)
+![Analysis and error report](screenshots/analysis.png)
 
 **Confidence Heatmap & Cleaning Summary**
-![Heatmap and KPIs](screenshots/03_results.png)
+![Heatmap and KPIs](screenshots/results.png)
 
 > Three screenshots give the visual overview — the video covers the full workflow.
 
